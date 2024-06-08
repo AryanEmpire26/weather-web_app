@@ -18,7 +18,7 @@ This is a weather application built using React.js. It provides real-time weathe
 ## Instructions to Run Locally
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Install dependencies by running `npm install`.
+3. Install dependencies by running `npm install --legacy-peer-deps`.
 4. Create a `.env` file in the project root and add your OpenWeather API key:
 5. Run the application locally by running `npm start`.
 6. Open your web browser and navigate to `http://localhost:3000` to view the application.
