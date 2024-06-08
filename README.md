@@ -12,6 +12,9 @@ This is a weather application built using React.js. It provides real-time weathe
 - **Geolocation API**: Used to fetch the user's current location for weather data.
 - **OpenWeather API**: Provides real-time weather data for locations.
 
+## Live Demo
+[Click here to view the live demo](https://react-weather-oy3dxvfb3-aryan-ranjans-projects.vercel.app/)
+
 ## Instructions to Run Locally
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
